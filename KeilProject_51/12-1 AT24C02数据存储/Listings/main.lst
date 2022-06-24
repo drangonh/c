@@ -1,0 +1,121 @@
+C51 COMPILER V9.54   MAIN                                                                  06/24/2022 08:59:32 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE MAIN
+OBJECT MODULE PLACED IN .\Objects\main.obj
+COMPILER INVOKED BY: C:\Program Files (x86)\K51\C51\BIN\C51.EXE main.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT
+                    -(.\Listings\main.lst) TABS(2) OBJECT(.\Objects\main.obj)
+
+line level    source
+
+   1          #include <REGX52.H>
+   2          #include "LCD1602.h"
+   3          #include "Key.h"
+   4          #include "AT24C02.h"
+   5          #include "Delay.h"
+   6          #include "MLX90614.h"
+   7          #include "intrins.h"
+   8          
+   9          #define  uint  unsigned int 
+  10          #define  uchar unsigned char 
+  11          #define  Nack_counter  10 
+  12          
+  13          unsigned char KeyNum;
+  14          unsigned int Num;
+  15          unsigned int Tem; 
+  16          unsigned int T,a,b; 
+  17          
+  18          sbit  SCL=P1^6; // 时钟线 
+  19          sbit  SDA=P1^7; // 数据线
+  20          
+  21          void main()
+  22          {
+  23   1        LCD_Init();
+  24   1        LCD_ShowNum(1,1,5555,4);
+  25   1        
+  26   1        
+  27   1        
+  28   1        //函数部分 
+  29   1        SCL=1;SDA=1;_nop_(); 
+  30   1        _nop_();_nop_();_nop_(); 
+  31   1        SCL=0; 
+  32   1        Delay(30); 
+  33   1        SCL=1; 
+  34   1        
+  35   1        while(1) 
+  36   1        { 
+  37   2          Tem=memread(); 
+*** WARNING C206 IN LINE 37 OF main.c: 'memread': missing function-prototype
+  38   2          
+  39   2          T=Tem*2;
+  40   2          if(T>27315){
+  41   3            T=T-27315; 
+  42   3            a=T/100; 
+  43   3            b=T-a*100; 
+  44   3          }
+  45   2          else{
+  46   3            T=27315-T; 
+  47   3            a=T/100; 
+  48   3            b=T-a*100; 
+  49   3          }
+  50   2          
+  51   2           //printf("ASCII 值 = %d\n", Tem );
+  52   2          LCD_ShowNum(2,1,a,4);
+  53   2          LCD_ShowString(2,5,".");
+C51 COMPILER V9.54   MAIN                                                                  06/24/2022 08:59:32 PAGE 2   
+
+  54   2          LCD_ShowNum(2,6,b,2);
+  55   2          //display(Tem); 
+  56   2          //delay(20); 
+  57   2        } 
+  58   1        
+  59   1        /*
+  60   1        while(1)
+  61   1        {
+  62   1          KeyNum=Key();
+  63   1          if(KeyNum==1) //K1按键，Num自增
+  64   1          {
+  65   1            Num++;
+  66   1            LCD_ShowNum(1,1,Num,5);
+  67   1          }
+  68   1          if(KeyNum==2) //K2按键，Num自减
+  69   1          {
+  70   1            Num--;
+  71   1            LCD_ShowNum(1,1,Num,5);
+  72   1          }
+  73   1          if(KeyNum==3) //K3按键，向AT24C02写入数据
+  74   1          {
+  75   1            AT24C02_WriteByte(0,Num%256);
+  76   1            Delay(5);
+  77   1            AT24C02_WriteByte(1,Num/256);
+  78   1            Delay(5);
+  79   1            LCD_ShowString(2,1,"Write OK");
+  80   1            Delay(1000);
+  81   1            LCD_ShowString(2,1,"        ");
+  82   1          }
+  83   1          if(KeyNum==4) //K4按键，从AT24C02读取数据
+  84   1          {
+  85   1            Num=AT24C02_ReadByte(0);
+  86   1            Num|=AT24C02_ReadByte(1)<<8;
+  87   1            LCD_ShowNum(1,1,Num,5);
+  88   1            LCD_ShowString(2,1,"Read OK ");
+  89   1            Delay(1000);
+  90   1            LCD_ShowString(2,1,"        ");
+  91   1          }
+  92   1        }
+  93   1        */
+  94   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    166    ----
+   CONSTANT SIZE    =      2    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =     11    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  0 ERROR(S)

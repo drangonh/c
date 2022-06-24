@@ -1,0 +1,677 @@
+[
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\AT24C02.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\AT24C02.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\OneWire.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\OneWire.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\I2C.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\I2C.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\Key.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\Key.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\AT24C02.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\AT24C02.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\Nixie.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\Nixie.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\I2C.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\I2C.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\Key.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\Key.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-2 蜂鸣器播放音乐\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-2 蜂鸣器播放音乐\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-1 DS1302时钟\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-1 DS1302时钟\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-1 DS1302时钟\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-1 DS1302时钟\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-2 秒表(定时器扫描按键数码管)\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-2 蜂鸣器播放音乐\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-2 蜂鸣器播放音乐\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\MLX90614.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\12-1 AT24C02数据存储\\MLX90614.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-2 蜂鸣器播放音乐\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-2 蜂鸣器播放音乐\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-1 DS1302时钟\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-1 DS1302时钟\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\DS1302.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\DS1302.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\Key.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-2 DS1302可调时钟\\Key.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-1 DS1302时钟\\DS1302.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\10-1 DS1302时钟\\DS1302.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\DS18B20.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-1 DS18B20温度读取\\DS18B20.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\14-1 LCD1602液晶显示屏\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\14-1 LCD1602液晶显示屏\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\14-1 LCD1602液晶显示屏\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\14-1 LCD1602液晶显示屏\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\Key.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\Key.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\14-1 LCD1602液晶显示屏\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\14-1 LCD1602液晶显示屏\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\Nixie.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\Nixie.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\OneWire.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\OneWire.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\AT24C02.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\AT24C02.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\DS18B20.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\DS18B20.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\I2C.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\I2C.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\Key.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\13-2 DS18B20温度报警器\\Key.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-2 直流电机调速\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-1 LED呼吸灯\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\15-1 LED呼吸灯\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\Int0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\Int0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\2-1 点亮一个LED\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\2-1 点亮一个LED\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\IR.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\IR.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Int0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Int0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\IR.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\IR.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控(11.0592MHz晶振)\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Key.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Key.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-2 DA数模转换\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-2 DA数模转换\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\Int0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\Int0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-2 DA数模转换\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-2 DA数模转换\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\IR.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\IR.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Motor.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Motor.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-2 DA数模转换\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-2 DA数模转换\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-1 AD模数转换\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-1 AD模数转换\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-1 AD模数转换\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-1 AD模数转换\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-1 红外遥控\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Timer1.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Timer1.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-1 AD模数转换\\XPT2046.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-1 AD模数转换\\XPT2046.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-1 AD模数转换\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\16-1 AD模数转换\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Nixie.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速(11.0592MHz晶振)\\Nixie.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\3-1 独立按键控制LED亮灭\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\3-1 独立按键控制LED亮灭\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\2-3 LED流水灯\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\2-3 LED流水灯\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\2-4 LED流水灯Plus\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\2-4 LED流水灯Plus\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\2-2 LED闪烁\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\2-2 LED闪烁\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\4-2 动态数码管显示\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\4-2 动态数码管显示\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\3-3 独立按键控制LED显示二进制\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\3-3 独立按键控制LED显示二进制\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\3-4 独立按键控制LED移位\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\3-4 独立按键控制LED移位\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\3-2 独立按键控制LED状态\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\3-2 独立按键控制LED状态\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-2 矩阵键盘密码锁\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-2 矩阵键盘密码锁\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-2 LCD1602调试工具\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-2 LCD1602调试工具\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-2 矩阵键盘密码锁\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-2 矩阵键盘密码锁\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-2 LCD1602调试工具\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-2 LCD1602调试工具\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-2 矩阵键盘密码锁\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-2 矩阵键盘密码锁\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-1 矩阵键盘\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-1 矩阵键盘\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-2 矩阵键盘密码锁\\MatrixKey.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-2 矩阵键盘密码锁\\MatrixKey.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-2 LCD1602调试工具\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-2 LCD1602调试工具\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-1 矩阵键盘\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-1 矩阵键盘\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-1 模块化编程\\Nixie.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-1 模块化编程\\Nixie.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-1 矩阵键盘\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-1 矩阵键盘\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-1 矩阵键盘\\MatrixKey.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\6-1 矩阵键盘\\MatrixKey.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-1 模块化编程\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-1 模块化编程\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-1 模块化编程\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\5-1 模块化编程\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-1 串口向电脑发送数据\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-1 串口向电脑发送数据\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-2 定时器时钟\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-2 定时器时钟\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-2 定时器时钟\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-2 定时器时钟\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-1 按键控制LED流水灯模式\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-1 按键控制LED流水灯模式\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-1 按键控制LED流水灯模式\\Key.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-1 按键控制LED流水灯模式\\Key.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-1 按键控制LED流水灯模式\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-1 按键控制LED流水灯模式\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-1 按键控制LED流水灯模式\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-1 按键控制LED流水灯模式\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-1 串口向电脑发送数据\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-1 串口向电脑发送数据\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-2 定时器时钟\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-2 定时器时钟\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-1 串口向电脑发送数据\\UART.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-1 串口向电脑发送数据\\UART.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-2 定时器时钟\\LCD1602.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\7-2 定时器时钟\\LCD1602.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-2 电脑通过串口控制LED\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-2 电脑通过串口控制LED\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\4-1 静态数码管显示\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\4-1 静态数码管显示\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\Buzzer.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\Buzzer.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-2 LED点阵屏显示动画\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-2 LED点阵屏显示动画\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-1 LED点阵屏显示图形\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-1 LED点阵屏显示图形\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-2 电脑通过串口控制LED\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-2 电脑通过串口控制LED\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\Delay.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\Delay.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-1 LED点阵屏显示图形\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-1 LED点阵屏显示图形\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-2 LED点阵屏显示动画\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-2 LED点阵屏显示动画\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Int0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Int0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\Key.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\Key.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-2 电脑通过串口控制LED\\UART.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\8-2 电脑通过串口控制LED\\UART.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-2 LED点阵屏显示动画\\MatrixLED.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\9-2 LED点阵屏显示动画\\MatrixLED.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Timer1.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Timer1.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\IR.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\IR.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\Nixie.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\11-1 蜂鸣器播放提示音\\Nixie.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Key.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Key.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Timer0.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Timer0.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\main.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\main.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Nixie.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Nixie.c"
+    },
+    {
+        "directory": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject",
+        "command": "clang      -c \"c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Motor.c\"",
+        "file": "c:\\Users\\dragon\\Desktop\\PRO\\51单片机入门教程资料\\课件及程序源码\\程序源码\\KeilProject\\17-2 红外遥控电机调速\\Motor.c"
+    }
+]

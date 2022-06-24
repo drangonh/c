@@ -1,0 +1,193 @@
+C51 COMPILER V9.54   MLX90614                                                              06/24/2022 08:59:34 PAGE 1   
+
+
+C51 COMPILER V9.54, COMPILATION OF MODULE MLX90614
+OBJECT MODULE PLACED IN .\Objects\MLX90614.obj
+COMPILER INVOKED BY: C:\Program Files (x86)\K51\C51\BIN\C51.EXE MLX90614.c OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEND P
+                    -RINT(.\Listings\MLX90614.lst) TABS(2) OBJECT(.\Objects\MLX90614.obj)
+
+line level    source
+
+   1          #include "at89x52.h" 
+   2          #include "intrins.h" 
+   3          
+   4          #define  uint  unsigned int 
+   5          #define  uchar unsigned char 
+   6          #define  Nack_counter  10 
+   7          
+   8          //mlx90614 端口定义 
+   9          sbit  SCL=P1^6; // 时钟线 
+  10          sbit  SDA=P1^7; // 数据线
+  11          
+  12          //************ 数据定义**************** 
+  13          bdata uchar flag; //可位寻址数据 
+  14          sbit bit_out=flag^7;
+  15          sbit bit_in=flag^0;
+  16          uchar DataH,DataL,Pecreg;
+  17          
+  18          
+  19          //************************************ 
+  20          void   start_bit(void) 
+  21          { 
+  22   1         SDA=1; 
+  23   1         _nop_();_nop_();_nop_();_nop_();_nop_(); 
+  24   1         SCL=1; 
+  25   1         _nop_();_nop_();_nop_();_nop_();_nop_(); 
+  26   1         SDA=0; 
+  27   1         _nop_();_nop_();_nop_();_nop_();_nop_(); 
+  28   1         SCL=0; 
+  29   1         _nop_();_nop_();_nop_();_nop_();_nop_(); 
+  30   1       
+  31   1      } 
+  32          
+  33          
+  34          
+  35          //------------------------------ 
+  36          void   stop_bit(void) 
+  37          { 
+  38   1      
+  39   1         SCL=0; 
+  40   1         _nop_();_nop_();_nop_();_nop_();_nop_(); 
+  41   1         SDA=0; 
+  42   1         _nop_();_nop_();_nop_();_nop_();_nop_(); 
+  43   1         SCL=1; 
+  44   1         _nop_();_nop_();_nop_();_nop_();_nop_(); 
+  45   1         SDA=1; 
+  46   1      } 
+  47          
+  48          
+  49          //-----------发送一个位--------- 
+  50          void  send_bit(void) 
+  51          { 
+  52   1        if(bit_out==0) 
+  53   1        
+  54   1             SDA=0; 
+C51 COMPILER V9.54   MLX90614                                                              06/24/2022 08:59:34 PAGE 2   
+
+  55   1        else 
+  56   1           SDA=1; 
+  57   1        _nop_(); 
+  58   1        SCL=1; 
+  59   1        _nop_();_nop_();_nop_();_nop_(); 
+  60   1        _nop_();_nop_();_nop_();_nop_(); 
+  61   1        SCL=0; 
+  62   1        _nop_();_nop_();_nop_();_nop_(); 
+  63   1        _nop_();_nop_();_nop_();_nop_(); 
+  64   1      } 
+  65          
+  66          
+  67          
+  68          //---------- 接收一个位---------- 
+  69          void receive_bit(void) 
+  70          { 
+  71   1        SDA=1;bit_in=1; 
+  72   1        SCL=1; 
+  73   1        
+  74   1        _nop_();_nop_();_nop_();_nop_(); 
+  75   1        _nop_();_nop_();_nop_();_nop_(); 
+  76   1        
+  77   1        bit_in=SDA; 
+  78   1        _nop_(); 
+  79   1        SCL=0; 
+  80   1        _nop_();_nop_();_nop_();_nop_(); 
+  81   1        _nop_();_nop_();_nop_();_nop_(); 
+  82   1      }
+  83          
+  84          
+  85          /*
+  86          //------------ 延时-------------- 
+  87          void delay(uint N) 
+  88          { 
+  89            uint i; 
+  90            
+  91            for(i=0;i<N;i++) 
+  92               _nop_(); 
+  93          }
+  94          */
+  95          
+  96          
+  97          //--------- 发送一个字节--------- 
+  98          void  tx_byte(uchar dat_byte) 
+  99          { 
+ 100   1         char i,n,dat; 
+ 101   1         n=Nack_counter; 
+ 102   1      TX_again: 
+ 103   1         dat=dat_byte; 
+ 104   1         for(i=0;i<8;i++) 
+ 105   1         { 
+ 106   2           if(dat&0x80) 
+ 107   2            bit_out=1; 
+ 108   2           else 
+ 109   2            bit_out=0; 
+ 110   2           send_bit(); 
+ 111   2           dat=dat<<1; 
+ 112   2         } 
+ 113   1         
+ 114   1            receive_bit(); 
+ 115   1         if(bit_in==1) 
+ 116   1         { 
+C51 COMPILER V9.54   MLX90614                                                              06/24/2022 08:59:34 PAGE 3   
+
+ 117   2          stop_bit(); 
+ 118   2          if(n!=0) 
+ 119   2          {n--;goto Repeat;} 
+ 120   2          else 
+ 121   2           goto exit; 
+ 122   2         } 
+ 123   1         else 
+ 124   1          goto exit; 
+ 125   1      Repeat: 
+ 126   1          start_bit(); 
+ 127   1          goto TX_again; 
+ 128   1      exit: ; 
+ 129   1      } 
+ 130          
+ 131          
+ 132          //---------- 接收一个字节-------- 
+ 133          uchar rx_byte(void) 
+ 134          { 
+ 135   1        uchar i,dat; 
+ 136   1        dat=0; 
+ 137   1        for(i=0;i<8;i++) 
+ 138   1        { 
+ 139   2          dat=dat<<1; 
+ 140   2          receive_bit(); 
+ 141   2          if(bit_in==1) 
+ 142   2           dat=dat+1; 
+ 143   2        } 
+ 144   1        send_bit(); 
+ 145   1        return dat; 
+ 146   1      } 
+ 147          
+ 148          uint memread(void) 
+ 149          { 
+ 150   1        start_bit(); 
+ 151   1        tx_byte(0xB4);  //Send SlaveAddress ==============================
+ 152   1        //tx_byte(0x00); 
+ 153   1        tx_byte(0x07);  //Send Command 
+ 154   1        //------------ 
+ 155   1        start_bit(); 
+ 156   1        tx_byte(0x01); 
+ 157   1        bit_out=0; 
+ 158   1        DataL=rx_byte(); 
+ 159   1        bit_out=0; 
+ 160   1        DataH=rx_byte(); 
+ 161   1        bit_out=1; 
+ 162   1        Pecreg=rx_byte(); 
+ 163   1        stop_bit(); 
+ 164   1        return(DataH*256+DataL); 
+ 165   1      } 
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    240    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =      4    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
